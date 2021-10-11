@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import farmer from "../farmer.png";
+import logo from "../token-logo.png";
 
 class Navbar extends Component {
     render() {
