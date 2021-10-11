@@ -12,7 +12,7 @@ class Navbar extends Component {
                     rel="noopener noreferrer"
                 >
                     <img
-                        src={farmer}
+                        src={logo}
                         width="30"
                         height="30"
                         className="d-inline-block align-top"
